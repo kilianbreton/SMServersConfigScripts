@@ -27,13 +27,13 @@ https://v4.live.maniaplanet.com/webservices/titles/GEs@guerro/scripts
 
 | TitlePack               | Script                       | Embeded |
 |-------------------------|------------------------------|---------|
-| GEs@guerro              | CTFMode.Script.txt           | true    |
-| GEs@guerro              | DodgeballFun.Script.txt      | true    |
-| GEs@guerro              | DodgeballLifeTeam.Script.txt | true    |
-| SMStormBattle@nadeolabs | Battle.Script.txt            | true    |
-| SMStormBattle@nadeolabs | BattlePro.Script.txt         | true    |
-| SMStormSiege@nadeolabs  | SiegePro.Script.txt          | true    |
-| SMStormJoust@nadeolabs  | JoustPro.Script.txt          | true    |
-| SMStorm@nadeolabs       | Annihlation.Script.txt       | false   |
-| SMStormCombo@nadeolabs  | ComboPro.Script.txt          | true    |
-| SpeedBall@steeffeen     | SpeedBall.Script.txt         | true    |
+| GEs@guerro              | CTFMode.Script.txt           | ☑️    |
+| GEs@guerro              | DodgeballFun.Script.txt      | ☑️    |
+| GEs@guerro              | DodgeballLifeTeam.Script.txt | ☑️    |
+| SMStormBattle@nadeolabs | Battle.Script.txt            | ☑️    |
+| SMStormBattle@nadeolabs | BattlePro.Script.txt         | ☑️    |
+| SMStormSiege@nadeolabs  | SiegePro.Script.txt          | ☑️    |
+| SMStormJoust@nadeolabs  | JoustPro.Script.txt          | ☑️    |
+| SMStorm@nadeolabs       | Annihlation.Script.txt       | ❌  |
+| SMStormCombo@nadeolabs  | ComboPro.Script.txt          | ☑️    |
+| SpeedBall@steeffeen     | SpeedBall.Script.txt         | ☑️  |
