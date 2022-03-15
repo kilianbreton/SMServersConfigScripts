@@ -20,9 +20,12 @@ https://v4.live.maniaplanet.com/webservices/titles/GEs@guerro/scripts
 - Annihilation
 - Combo
 - SpeedBall
-- Heroes
-- HeroesPro
-- Obstacle
+- Heroes    *(Coming soon)*
+- HeroesPro *(Coming soon)*
+- Obstacle  *(Coming soon)*
+- Sprint    *(Coming soon)*
+- Elite     *(Coming soon)*
+- DuelElite *(Coming soon)*
 
 
 | TitlePack               | Script                       | Embeded |
@@ -31,7 +34,7 @@ https://v4.live.maniaplanet.com/webservices/titles/GEs@guerro/scripts
 | GEs@guerro              | DodgeballFun.Script.txt      | ☑️    |
 | GEs@guerro              | DodgeballLifeTeam.Script.txt | ☑️    |
 | SMStormBattle@nadeolabs | Battle.Script.txt            | ☑️    |
-| SMStormBattle@nadeolabs | BattlePro.Script.txt         | ☑️    |
+| BattlePro@jousticeleague| BattlePro.Script.txt         | ☑️    |
 | SMStormSiege@nadeolabs  | SiegePro.Script.txt          | ☑️    |
 | SMStormJoust@nadeolabs  | JoustPro.Script.txt          | ☑️    |
 | SMStorm@nadeolabs       | Annihlation.Script.txt       | ❌  |
